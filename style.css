@@ -160,6 +160,18 @@ nav ul ul ul li {
         display: block;
     }
 }
+/* hislide*/
+
+.hi-slide .hi-next,
+.hi-slide .hi-prev {
+    top: 60%;
+    height: 40px;
+    margin-top: -40px;
+    border-radius: 50px;
+    line-height: 42px;
+    background-color: black;
+    font-size: 30px;
+}
 
 
 
